@@ -1,0 +1,5 @@
+title: "Mi Portafolio"
+description: "Proyectos de Funneler, Diseñadora Web y Experta en Automatizaciones"
+baseurl: "" # si es tuusuario.github.io deja vacío
+url: "https://alixaizul.github.io"
+theme: minima  # tema oficial sencillo
