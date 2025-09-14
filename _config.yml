@@ -3,3 +3,8 @@ description: "Funneler, Diseñadora Web y Experta en Automatizaciones"
 baseurl: "" # si es tuusuario.github.io deja vacío
 url: "https://alixaizul.github.io"
 theme: minima  # tema oficial sencillo
+
+# Activar links de navegación desde /_data/navigation.yml
+header_pages:
+  - about.md
+  - projects.md
