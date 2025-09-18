@@ -6,7 +6,7 @@ This repository showcases a selection of web projects I've worked on, with repre
 
 ## Vision Pro
 
-![Home](vision-pro/Vision-Pros-0-Home.jpg)  
+[Home](vision-pro/Vision-Pros-0-Home.jpg)  
 ![About](path/vision-pro/about.jpg)  
 ![Service](path/vision-pro/service.jpg)
 
